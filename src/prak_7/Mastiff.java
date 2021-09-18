@@ -2,7 +2,6 @@ package prak_7;
 
 public class Mastiff extends Dog{
     private String kind_of_mastiff;
-
     public Mastiff(String color, String name, int age, String kind_of_mastiff)
     {
         super(color, name, age);
